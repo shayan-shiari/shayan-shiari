@@ -1,7 +1,7 @@
 [![MasterHead](http://www.getaprogrammer.com.au/wp-content/uploads/2020/04/react.jpg)](https://rishavchanda.io)
 <h1 align="center">My name is Shayan</h1>
 <h3 align="center">A frontend developer-React.js</h3>
-<img align="right" src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="500" alt="coding">
+<img align="right" src="https://jusmarktech.com/public/a/images/pages/web_development.gif" width="400" alt="coding">
 
 - 🤝 I’m open to collaboration on interesting web projects
 
